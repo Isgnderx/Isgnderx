@@ -7,11 +7,11 @@
 Aykhan Isgandarzada
 ──────────────────────────────────────────────────────────────────────────────
 
-OS...................... Azerbaijan
-Role.................... Software Engineer
-School.................. Holberton School
-Focus................... Backend Development
-Currently Learning...... Python, Flask, JavaScript
+OS...................... Windows 10, Linux, Android
+Uptime................... <!--UPTIME-->Loading...<!--/UPTIME-->
+School.................. Holberton School, BEU
+Focus................... Electronics, Programming
+Currently Learning...... Python, JavaScript
 
 Languages............... Python
 ........................ JavaScript (ES6)
@@ -27,32 +27,27 @@ Database................ MySQL
 Tools................... Git
 ........................ Linux
 ........................ VS Code
-........................ Docker
-
-Projects................ HBnB
-........................ Portfolio Website
-........................ REST APIs
-........................ ES6 Data Manipulation
+........................ ArduinoIDE
 
 Interests............... Open Source
 ........................ System Design
-........................ Automation
+........................ Music
 ........................ Nature
-........................ Traveling
+........................ Magic
 
 GitHub
 ──────────────────────────────────────────────────────────────────────────────
 
 Username................ Isgenderx
 Repositories............ Public Projects
-Status.................. Active Developer
+Status.................. Depressed
 
 Contact
 ──────────────────────────────────────────────────────────────────────────────
 
 GitHub.................. https://github.com/Isgenderx
 LinkedIn................ https://linkedin.com/in/yourusername
-Email................... your@email.com
+Email................... ayxanisgenderzade999@email.com
 
 </pre>
 
@@ -65,7 +60,7 @@ Email................... your@email.com
 <h2>⚡ Tech Stack</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,c,html,css,flask,mysql,sqlite,git,linux,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=python,js,c,html,css,mysql,sqlite,git,linux,vscode" />
 </p>
 
 ---
