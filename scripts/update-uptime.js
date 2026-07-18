@@ -23,8 +23,8 @@ const uptime = `${years} years, ${months} months, ${days} days`;
 let readme = fs.readFileSync("README.md", "utf8");
 
 readme = readme.replace(
-    /^Uptime\.*\s.*$/m,
-    `Uptime................... ${uptime}`
+    /<!--UPTIME-->.*?<!--\/UPTIME-->/,
+    `<!--UPTIME-->${uptime}<!--/UPTIME-->`
 );
 
 fs.writeFileSync("README.md", readme);
