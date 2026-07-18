@@ -1,8 +1,6 @@
 const fs = require("fs");
 
-// YYYY, MM-1, DD
-const birthday = new Date(2007, 6, 12);
-
+const birthday = new Date(2007, 6, 12); // YYYY, MM-1, DD
 const now = new Date();
 
 let years = now.getFullYear() - birthday.getFullYear();
@@ -11,12 +9,7 @@ let days = now.getDate() - birthday.getDate();
 
 if (days < 0) {
     months--;
-    const lastMonth = new Date(
-        now.getFullYear(),
-        now.getMonth(),
-        0
-    );
-
+    const lastMonth = new Date(now.getFullYear(), now.getMonth(), 0);
     days += lastMonth.getDate();
 }
 
@@ -30,8 +23,8 @@ const uptime = `${years} years, ${months} months, ${days} days`;
 let readme = fs.readFileSync("README.md", "utf8");
 
 readme = readme.replace(
-    /<!--UPTIME-->.*?<!--\/UPTIME-->/,
-    `<!--UPTIME-->${uptime}<!--/UPTIME-->`
+    /^Uptime\.*\s.*$/m,
+    `Uptime................... ${uptime}`
 );
 
 fs.writeFileSync("README.md", readme);
