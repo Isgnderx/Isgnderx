@@ -47,7 +47,7 @@ Contact
 
 GitHub.................. https://github.com/Isgnderx
 LinkedIn................ https://www.linkedin.com/in/aykhan-isgandarzada-aa8642331
-Email................... ayxanisgenderzade999@email.com
+Email................... ayxanisgenderzade999@gmail.com
 
 </pre>
 
