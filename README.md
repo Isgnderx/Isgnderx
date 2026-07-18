@@ -45,8 +45,8 @@ Status.................. Depressed
 Contact
 ──────────────────────────────────────────────────────────────────────────────
 
-GitHub.................. https://github.com/Isgenderx
-LinkedIn................ https://linkedin.com/in/yourusername
+GitHub.................. https://github.com/Isgnderx
+LinkedIn................ https://www.linkedin.com/in/aykhan-isgandarzada-aa8642331
 Email................... ayxanisgenderzade999@email.com
 
 </pre>
