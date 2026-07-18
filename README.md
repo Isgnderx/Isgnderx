@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="images/ascii.png" align="left" width="430" alt="ASCII Art"/>
+<img src="photo/Photo.png" align="left" width="430" alt="ASCII Art"/>
 
 <pre>
 
