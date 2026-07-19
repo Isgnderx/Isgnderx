@@ -60,18 +60,37 @@ Email................... ayxanisgenderzade999@gmail.com
 <h2>⚡ Tech Stack</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,c,html,css,mysql,sqlite,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css,mysql,sqlite,git,linux,vscode" />
 </p>
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+## 📋 GitHub Summary
 
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Isgenderx&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isgenderx&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isgnderx&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isgnderx&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isgnderx&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isgnderx&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Isgnderx&theme=github_dark&utcOffset=4"/>
 </p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Isgenderx&theme=tokyonight&hide_border=true"/>
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Isgnderx&theme=github-dark&hide_border=true&background=00000000"/>
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isgnderx&theme=github-dark&hide_border=true&bg_color=00000000"/>
+</p>
+
+---
