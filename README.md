@@ -8,7 +8,7 @@ Aykhan Isgandarzada
 ──────────────────────────────────────────────────────────────────────────────
 
 OS...................... Windows 10, Linux, Android
-Uptime................... <!--UPTIME-->19 years, 0 months, 8 days<!--/UPTIME-->
+Uptime................... <!--UPTIME-->19 years, 0 months, 9 days<!--/UPTIME-->
 School.................. Holberton School, BEU
 Focus................... Electronics, Programming
 Currently Learning...... Python, JavaScript
